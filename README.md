@@ -2,7 +2,7 @@
 # CarbonX
 #### About CarbonX
 
-#### To read all the documentations and work flow refer to the ['docs'](https://github.com/Aardy-Bond/Kriti-25/tree/main/docs) directory
+#### To read all the documentations and work flow refer to the ['docs'](https://github.com/sgcodes7471/EnergyChain/tree/main/docs) directory
 
 ## 💻 TechStack Used
 #### <ul><li>JavaScript</li><li>Solidity</li><li>Circom</li><li>ReactJS</li><li>TailwindCSS</li><li>NodeJS</li><li>Web3.js</li><li>MongoDB</li><li>IPFS</li><li>PinataSDK</li><li>GraphQL</li><li>SocketIO</li><li>ZK Snarks</li><li>Redis</li></ul>
