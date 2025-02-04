@@ -8,9 +8,6 @@
 #### <ul><li>JavaScript</li><li>Solidity</li><li>Circom</li><li>ReactJS</li><li>TailwindCSS</li><li>NodeJS</li><li>Web3.js</li><li>MongoDB</li><li>IPFS</li><li>PinataSDK</li><li>GraphQL</li><li>SocketIO</li><li>ZK Snarks</li><li>Redis</li></ul>
 
 
-## 🚀 Features
-
-
 ## ⚙️ Setting up the Project locally
 ### Prerequisites
 #### Node.js should be installed on your system
