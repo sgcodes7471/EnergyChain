@@ -95,7 +95,7 @@ npm run dev
 │       └── purchase            <- Includes the files generated for ZK Proof for Buy-side
 │       └── sell                <- Includes the files generated for ZK Proof for Sell-side
 
-├── listing                     <- Auto generated folder for building and deploying the subgraphs. Consists the schema and events   
+├── carbon-x-listing                     <- Auto generated folder for building and deploying the subgraphs. Consists the schema and events   
 
 ├── app                         <- Main directory consisting of the source code of the application
 │   └── AdminDashboard          <- Consists the UI made on ReactJS of the admin dashboard used to verify the documents of the businesses before their onchain onboarding 
